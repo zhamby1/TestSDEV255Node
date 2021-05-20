@@ -5,6 +5,10 @@
 		},
 		{
 			"path": "..\\..\\Desktop\\workspace_app"
+		},
+		{
+			"name": "usercreatenode",
+			"path": "..\\..\\Desktop\\usernode\\usercreatenode"
 		}
 	],
 	"settings": {}
